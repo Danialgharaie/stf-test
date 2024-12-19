@@ -1,0 +1,15 @@
+HEADER                                            19-DEC-24   ALA
+TITLE     linking'
+COMPND    MOL_ID: 1;
+COMPND   2 MOLECULE: LINKING';
+COMPND   3 CHAIN: A
+REMARK   4 ALA COMPLIES WITH FORMAT V. 3.30, 19-DEC-24
+REMARK 100
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY 
+REMARK 100
+HET    ALA  A   1       1
+HETNAM     ALA LINKING'
+HETSYN     ALA 
+FORMUL    1  ALA    .
+MASTER        4    0    1    0    0    0    0    0    0    0    0    0
+END
